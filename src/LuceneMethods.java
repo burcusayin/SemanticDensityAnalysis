@@ -12,7 +12,7 @@ import org.apache.lucene.analysis.util.CharArraySet;
 
 import java.util.*;
 
-public class LuceneMethods extends Analyzer {
+public class LuceneMethods extends Analyzer { 
 	 	 
 	   @Override
 	   protected TokenStreamComponents createComponents(String fieldName) {

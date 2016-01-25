@@ -9,7 +9,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.Random;
 
-public class DensityAnalysis {
+public class DensityAnalysis { 
 	
 	public void analyzeDensity(ArrayList<ArrayList<ArrayList<String>>> textList, ArrayList<String> vocabWords, String targetWord)
 	{

@@ -22,7 +22,7 @@ import org.ejml.ops.SingularOps;
 import org.ejml.simple.SimpleMatrix;
 
 public class Simulation {
-	
+	 
 	static LuceneMethods lm = new LuceneMethods();
 	
 	public static void main(String[] args) throws IOException {

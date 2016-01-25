@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.io.File;
 
-public class ReadFiles {
+public class ReadFiles { 
 	
 	 public ArrayList<ArrayList<String>> read() throws IOException {
 		    ArrayList<ArrayList<String>> texts = new ArrayList<ArrayList<String>>();
