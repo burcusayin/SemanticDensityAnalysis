@@ -40,7 +40,7 @@ public class ReadFiles {
 	        }
 	        
 	      //read 1900s
-	        String target_dir2 = "C:\\Users\\Burcu\\...";
+	        String target_dir2 = "C:\\Users\\...";
 	        File dir2 = new File(target_dir2);
 	        File[] files2 = dir2.listFiles();
 	        
