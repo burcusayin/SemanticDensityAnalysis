@@ -10,7 +10,7 @@ public class ReadFiles {
 		    ArrayList<ArrayList<String>> texts = new ArrayList<ArrayList<String>>();
 		    
 		    //read 1800s
-	        String target_dir = "C:\\Users\\Burcu\\Downloads\\1800";
+	        String target_dir = "C:\\Users\\...";
 	        File dir = new File(target_dir);
 	        File[] files = dir.listFiles();
 	        
@@ -40,7 +40,7 @@ public class ReadFiles {
 	        }
 	        
 	      //read 1900s
-	        String target_dir2 = "C:\\Users\\Burcu\\Downloads\\1900";
+	        String target_dir2 = "C:\\Users\\Burcu\\...";
 	        File dir2 = new File(target_dir2);
 	        File[] files2 = dir2.listFiles();
 	        
@@ -70,7 +70,7 @@ public class ReadFiles {
 	        }
 	        
 	      //read 2000s
-	        String target_dir3 = "C:\\Users\\Burcu\\Downloads\\2000";
+	        String target_dir3 = "C:\\Users\\...";
 	        File dir3 = new File(target_dir3);
 	        File[] files3 = dir3.listFiles();
 	        
